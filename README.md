@@ -23,13 +23,13 @@ This repository contains an implementation of the kNN-P classifier, an enhanced 
 You can install this package using pip:
 
 ```bash
-pip install knnp
+pip install kNNp
 ```
 
 ## Usage
 
 ```python
-from knnp.p_systems import kNN_P
+from kNNp.p_systems import kNN_P
 
 # Create an instance of kNN-P
 knn_p = kNN_P(n=100, d=2, q=10, m=5, k=3, maxstep=100)
