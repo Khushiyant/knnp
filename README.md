@@ -72,3 +72,7 @@ If you have questions or need further assistance, please feel free to reach out 
 ---
 
 **Please note that this project is under development. Use it with caution, and contributions are encouraged.**
+
+## References
+
+Hu, Juan, et al. “KNN-P: A KNN Classifier Optimized by P Systems.” Theoretical Computer Science, vol. 817, 1 May 2020, pp. 55–65, www.sciencedirect.com/science/article/abs/pii/S0304397520300098, https://doi.org/10.1016/j.tcs.2020.01.001. Accessed 30 Oct. 2023.
