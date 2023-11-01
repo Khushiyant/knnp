@@ -59,6 +59,9 @@ predictions = knn_p.predict(test_data)
 # training_data = np.random.random_sample(size=(100, 9))
 # class_labels = np.random.randint(0, 2, size=(100, 1))
 
+# for i, (neighbors_indices, _) in enumerate(predictions):
+#     print("Test sample {} is classified as class {}".format(i, y[neighbors_indices[0]]) )
+
 Test sample 0 is classified as class [0]
 Test sample 1 is classified as class [1]
 Test sample 2 is classified as class [1]
