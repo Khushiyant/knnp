@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'k-nearest neighbors (kNN) classifier optimized by P systems,
 
 # Setting up
 setup(
-    name="knnp",
+    name="kNNp",
     version=VERSION,
     author="Khushiyant",
     author_email="<khushiyant2002@gmail.com>",

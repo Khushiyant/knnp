@@ -53,6 +53,24 @@ predictions = knn_p.predict(test_data)
 ...
 ```
 
+## Output
+```bash
+
+# training_data = np.random.random_sample(size=(100, 9))
+# class_labels = np.random.randint(0, 2, size=(100, 1))
+
+Test sample 0 is classified as class [0]
+Test sample 1 is classified as class [1]
+Test sample 2 is classified as class [1]
+Test sample 3 is classified as class [1]
+Test sample 4 is classified as class [1]
+Test sample 5 is classified as class [1]
+Test sample 6 is classified as class [1]
+Test sample 7 is classified as class [1]
+Test sample 8 is classified as class [1]
+Test sample 9 is classified as class [1]
+```
+
 ## Contributing
 
 Contributions to this project are welcome. Please follow these guidelines for contributing:
