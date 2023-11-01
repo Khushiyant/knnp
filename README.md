@@ -8,6 +8,8 @@
 
 ## Overview
 
+![Screenshot 2023-11-01 at 11 45 08 PM](https://github.com/Khushiyant/knnp/assets/69671407/fdf509df-7a65-41c6-885a-5032d04f7bbb)
+
 This repository contains an implementation of the kNN-P classifier, an enhanced version of the k-nearest neighbors algorithm utilizing membrane computing. kNN-P is designed for parallel and distributed computing, which can improve the performance of the original k-nearest neighbors algorithm for classification tasks.
 
 **Please note that this project is currently under development.**
